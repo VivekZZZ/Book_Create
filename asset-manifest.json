@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Book_Create/static/css/main.1f59ae86.css",
+    "main.js": "/Book_Create/static/js/main.7ca8ecde.js",
+    "index.html": "/Book_Create/index.html",
+    "main.1f59ae86.css.map": "/Book_Create/static/css/main.1f59ae86.css.map",
+    "main.7ca8ecde.js.map": "/Book_Create/static/js/main.7ca8ecde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f59ae86.css",
+    "static/js/main.7ca8ecde.js"
+  ]
+}
